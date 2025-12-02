@@ -6,7 +6,7 @@ export const ContactSection = () => {
     <section className="py-24 bg-gradient-to-r from-blue-100 via-white to-blue-50">
       <div className="max-w-6xl mx-auto px-6 grid md:grid-cols-2 gap-12 items-center">
         
-        {/* Left: Info */}
+    
         <div>
           <h3 className="text-blue-600 text-lg font-semibold mb-2 uppercase tracking-wide">
             {contactContent.subtitle}
