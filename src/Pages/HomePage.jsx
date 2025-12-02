@@ -1,7 +1,7 @@
 import React from 'react'
 import HeroSection from '../Components/Home/HeroSection'
 import { items } from '../Utils/Constant'
-import ExploreSection from '../Components/Home/ExploreSEction';
+import ExploreSection from '../Components/Home/ExploreSection';
 import ExperienceSection from '../Components/Home/ExperienceSection';
 import TravelSection from '../Components/Home/TravelSection';
 
